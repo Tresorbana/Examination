@@ -1,0 +1,16 @@
+{
+  "students": [
+    {
+      "name": "BANA Emmy Tresor",
+      "grade": "95"
+    },
+    {
+      "name": "Bear",
+      "grade": "97"
+    },
+    {
+      "name": "Moise ",
+      "grade": "87"
+    }
+  ]
+}
